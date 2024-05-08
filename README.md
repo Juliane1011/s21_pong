@@ -1,5 +1,7 @@
 # P01D06 
 
+## Pong game with interactive interaction
+
 Program for a two-player game, 
 similar to Pong. To display the graphics, only use ASCII characters (with output 
 to the terminal). Implementation with the standard C library.
